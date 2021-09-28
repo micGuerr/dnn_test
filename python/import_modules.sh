@@ -3,5 +3,6 @@
 ! pip install tensorflow==2.6.0
 ! pip install sklearn==0.0
 ! pip install numpy==1.19.5
-!pip install imgaug==0.4.0
+! pip uninstall imgaug
+! pip install imgaug==0.4.0
 ! pip install matplotlib==3.4.3
